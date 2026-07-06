@@ -13,9 +13,9 @@ Project Modules
 
 
 Development Team
-Student Name:
-Course:
-Section:
+Student Name: Decena, Darwin
+Course:BSIT SD
+Section:2C
 Member Management Module
 
 Features
